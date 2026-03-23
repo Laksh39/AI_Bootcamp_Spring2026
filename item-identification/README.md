@@ -1,7 +1,7 @@
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-5-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![YOLO](https://img.shields.io/badge/YOLO-Object%20Detection-00FFFF?style=for-the-badge)
+![YOLO](https://img.shields.io/badge/YOLO-Object%20detection-00FFFF?style=for-the-badge)
 # 📦 Item Identification
 
 A real-time object detection system running on a Raspberry Pi 5 that uses **YOLO** to identify and label items through a live camera feed — directly on screen, no cloud required.
