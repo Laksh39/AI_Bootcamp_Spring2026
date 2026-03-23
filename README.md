@@ -4,7 +4,7 @@
 
 ---
 
-> I'm a high schooler from Austin, Texas who spent 15 days building real AI projects from scratch — not following tutorials, actually building. This is everything I made, broke, fixed, and shipped.
+> I'm a high schooler from Austin, Texas who spent 15 days creating many projects with help from LLM's like Gemini and Claude.
 
 ---
 
