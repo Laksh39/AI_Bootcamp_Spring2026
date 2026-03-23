@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-5-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-Local%20AI-black?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 # 🎙️ Talk to Pi (No Website)
 
 A purely terminal-based voice assistant running on a Raspberry Pi 5. You speak, the Pi listens, thinks, and responds with both voice and text — no browser, no interface, just you and the Pi.
