@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-5-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Replit](https://img.shields.io/badge/Replit-AI%20Build-F26207?style=for-the-badge&logo=replit&logoColor=white)
 # 🌐 Talk to Raspberry Pi
 
 A full-stack web interface for your Raspberry Pi 5. Send messages, monitor system stats, and receive live alerts from the Person Detector — all from a browser.
