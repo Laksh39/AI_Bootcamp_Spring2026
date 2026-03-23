@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-5-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-Local%20AI-black?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 # 🌤️ Why Is The Sky Blue?
 
 A one-file Python script that asks a local LLM a simple question — and gets a simple answer. No cloud, no API key, no internet. Just Ollama running a model on your own machine.
