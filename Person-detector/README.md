@@ -1,3 +1,6 @@
+![YOLO](https://img.shields.io/badge/YOLO-Object%20Detection-00FFFF?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-5-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 # 👁️ Person Detector
 
 A real-time person detection system running on a Raspberry Pi 5 that watches a live camera feed and notifies a website the moment a person has been in frame for 3 seconds or more.
