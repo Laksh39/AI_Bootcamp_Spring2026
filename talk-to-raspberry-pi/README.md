@@ -2,6 +2,8 @@
 
 A full-stack web interface for your Raspberry Pi 5. Send messages, monitor system stats, and receive live alerts from the Person Detector — all from a browser.
 
+link at https://remote-pi-console.replit.app/
+
 ---
 
 ## What It Does
