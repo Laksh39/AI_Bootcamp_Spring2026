@@ -1,3 +1,5 @@
+![Firebase](https://img.shields.io/badge/Firebase-Realtime%20DB-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Deployed-222222?style=for-the-badge&logo=github&logoColor=white)
 # 🚀 AI Bootcamp Progress Tracker
 
 A gamified progress tracker built to log and visualize my journey through the 15-Day AI Pro-Builder Bootcamp (Spring 2026). Every mission completed earns XP, every tool used gets logged, and every level up feels earned.
